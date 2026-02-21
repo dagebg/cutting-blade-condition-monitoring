@@ -1,0 +1,29 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/
+
+# OS / Editor
+.DS_Store
+*.swp
+*.swo
+
+# PyCharm / IntelliJ
+.idea/
+
+# Logs
+*.log
+
+# kaggle credentials
+kaggle.json
