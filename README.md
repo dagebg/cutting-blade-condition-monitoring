@@ -101,5 +101,5 @@ Dataset access utilities: downloading from Kaggle, loading raw CSV files,
   and loading the pre-built aggregated feature table.
 
 ## License
-The **code** in this repository is licensed under the MIT License – see the [LICENSE](LICENSE.txt) file for details.  
+The **code** in this repository is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
 The **dataset** is licensed separately under CC BY-SA 3.0 by its original authors.
