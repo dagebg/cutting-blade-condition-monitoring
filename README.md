@@ -27,7 +27,7 @@ The dataset is licensed under **Creative Commons Attribution-ShareAlike 3.0 (CC 
 
 ---
 
-## Project structure
+## Project Structure
 
 ```text
 .
