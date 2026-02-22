@@ -100,6 +100,8 @@ Open `main_notebook.ipynb` and execute the cells from top to bottom.
 Dataset access utilities: downloading from Kaggle, loading raw CSV files,
   and loading the pre-built aggregated feature table.
 ---
+> **Note:** This project was developed as a one-off university assignment and is no longer actively maintained.
+
 ## License
 The **code** in this repository is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
 The **dataset** is licensed separately under CC BY-SA 3.0 by its original authors.
