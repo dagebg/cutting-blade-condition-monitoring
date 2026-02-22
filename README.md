@@ -25,7 +25,7 @@ The dataset is licensed under **Creative Commons Attribution-ShareAlike 3.0 (CC 
 > Note: The dataset itself is not included in this repository.  
 > Please download it from the original source (e.g. Kaggle) and place it in the expected `data/` folder as described in the notebook.
 
----
+
 
 ## Project Structure
 
@@ -99,7 +99,7 @@ Open `main_notebook.ipynb` and execute the cells from top to bottom.
 - `helpers.py`  
 Dataset access utilities: downloading from Kaggle, loading raw CSV files,
   and loading the pre-built aggregated feature table.
-
+---
 ## License
 The **code** in this repository is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
 The **dataset** is licensed separately under CC BY-SA 3.0 by its original authors.
