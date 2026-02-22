@@ -40,7 +40,7 @@ The dataset is licensed under **Creative Commons Attribution-ShareAlike 3.0 (CC 
 │  ├─ evaluation.py          # reusable evaluation functions
 │  └─ helpers.py             # small dataset access utilities 
 ├─ requirements.txt          # Python dependencies
-├─ LICENSE.txt 
+├─ LICENSE
 └─ README.md
 ```
 
