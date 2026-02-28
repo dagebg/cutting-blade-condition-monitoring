@@ -58,6 +58,7 @@ def download_dataset(data_dir: str = "data") -> Path:
             ],
             capture_output=True,
             text=True,
+            encoding="utf-8",
         )
 
         if result.returncode == 0:
